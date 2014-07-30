@@ -1,0 +1,33 @@
+{
+  "name": "tweetnacl-auth",
+  "version": "0.1.0",
+  "authors": [
+    "Dmitry Chestnykh <dmitry@codingrobots.com>"
+  ],
+  "description": "HMAC-SHA-512-256 based on TweetNaCl.js",
+  "main": "nacl-auth.js",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "authentication",
+    "auth",
+    "crypto",
+    "hmac",
+    "hmac-sha512",
+    "nacl",
+    "tweetnacl"
+  ],
+  "license": "Public domain",
+  "homepage": "https://github.com/dchest/tweetnacl-auth-js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "tweetnacl": "^0.10.0"
+  }
+}
