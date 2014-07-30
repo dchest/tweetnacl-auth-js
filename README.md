@@ -9,6 +9,27 @@ Written in 2014 by Dmitry Chestnykh. Public domain.
 [![Build Status](https://travis-ci.org/dchest/tweetnacl-auth-js.svg?branch=master)
 ](https://travis-ci.org/dchest/tweetnacl-auth-js)
 
+
+Installation
+------------
+
+Via NPM:
+
+    $ npm install tweetnacl-auth
+
+Via Bower:
+
+    $ bower install tweetnacl-auth
+
+
+or just download `nacl-auth.js` or `nacl-auth.min.js` and include it after
+TweetNaCl.js:
+
+```html
+<script src="nacl.min.js"></script>
+<script src="nacl-auth.min.js"></script>
+```
+
 Usage
 -----
 
