@@ -1,7 +1,8 @@
 HMAC-SHA-512-256 for TweetNacl.js
 =================================
 
-Implementation of http://nacl.cr.yp.to/auth.html (requires TweetNaCl.js).
+Implementation of <http://nacl.cr.yp.to/auth.html>
+(requires [TweetNaCl.js](https://github.com/dchest/tweetnacl-js)).
 
 Written in 2014 by Dmitry Chestnykh. Public domain.
 
