@@ -43,3 +43,16 @@ Authenticates the given message with the secret key.
 ### nacl.auth.full(message, key)
 
 Returns HMAC-SHA-512 (without truncation) of the message under the key
+
+### nacl.auth.authLength = 32
+
+Length of authenticator returned by `nacl.auth`.
+
+### nacl.auth.authFullLength = 64
+
+Length of authenticator returned by `nacl.auth.full`.
+
+### nacl.auth.keyLength = 32
+
+Length of key for `nacl.auth` and `nacl.auth.full` (key length is currently not
+enforced).

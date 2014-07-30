@@ -38,6 +38,10 @@
     return hmac(message, key);
   };
 
+  auth.authLength = 32;
+  auth.authFullLength = 64;
+  auth.keyLength = 32;
+
   return auth;
 
 }));
