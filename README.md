@@ -5,6 +5,8 @@ Implementation of http://nacl.cr.yp.to/auth.html (requires TweetNaCl.js).
 
 Written in 2014 by Dmitry Chestnykh. Public domain.
 
+[![Build Status](https://travis-ci.org/dchest/tweetnacl-auth-js.svg?branch=master)
+](https://travis-ci.org/dchest/tweetnacl-auth-js)
 
 Usage
 -----
