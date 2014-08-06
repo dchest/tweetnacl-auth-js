@@ -1,6 +1,6 @@
 {
   "name": "tweetnacl-auth",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "HMAC-SHA-512-256 based on TweetNaCl.js",
   "main": "nacl-auth.js",
   "directories": {
@@ -30,6 +30,6 @@
     "tape": "^2.13.3"
   },
   "dependencies": {
-    "tweetnacl": "^0.11.x"
+    "tweetnacl": "0.11.x"
   }
 }
