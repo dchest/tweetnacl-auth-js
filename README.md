@@ -30,6 +30,15 @@ TweetNaCl.js:
 <script src="nacl-auth.min.js"></script>
 ```
 
+If using a CommonJS environment, such as Node.js, you can import it into `nacl`
+namespace:
+
+```javascript
+var nacl = require('tweetnacl');
+nacl.auth = require('tweetnacl-auth');
+```
+
+
 Usage
 -----
 
