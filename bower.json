@@ -1,6 +1,6 @@
 {
   "name": "tweetnacl-auth",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "authors": [
     "Dmitry Chestnykh <dmitry@codingrobots.com>"
   ],
@@ -19,7 +19,7 @@
     "nacl",
     "tweetnacl"
   ],
-  "license": "Public domain",
+  "license": "Unlicense",
   "homepage": "https://github.com/dchest/tweetnacl-auth-js",
   "ignore": [
     "**/.*",

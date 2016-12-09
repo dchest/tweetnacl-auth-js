@@ -1,6 +1,6 @@
 {
   "name": "tweetnacl-auth",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "HMAC-SHA-512-256 based on TweetNaCl.js",
   "main": "nacl-auth.js",
   "directories": {
@@ -24,7 +24,7 @@
     "tweetnacl"
   ],
   "author": "Dmitry Chestnykh",
-  "license": "Public domain",
+  "license": "Unlicense",
   "bugs": {
     "url": "https://github.com/dchest/tweetnacl-auth-js/issues"
   },
