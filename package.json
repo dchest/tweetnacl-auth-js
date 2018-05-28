@@ -36,6 +36,6 @@
     "uglify-js": "2.x.x"
   },
   "dependencies": {
-    "tweetnacl": "0.x.x"
+    "tweetnacl": "1.x.x"
   }
 }
