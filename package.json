@@ -33,7 +33,7 @@
     "faucet": "0.x.x",
     "tape": "2.x.x",
     "tweetnacl-util": "^0.13.5",
-    "uglify-js": "2.x.x"
+    "uglify-js": "2.8.x"
   },
   "dependencies": {
     "tweetnacl": "1.x.x"
