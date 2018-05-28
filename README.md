@@ -17,11 +17,6 @@ Via NPM:
 
     $ npm install tweetnacl-auth
 
-Via Bower:
-
-    $ bower install tweetnacl-auth
-
-
 or just download `nacl-auth.js` or `nacl-auth.min.js` and include it after
 TweetNaCl.js:
 
